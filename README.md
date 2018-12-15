@@ -13,10 +13,6 @@ This project is developped on MacOS, feel free to open PR to make it works on Li
 ## First install: dependencies
 ### Fetching dependencies
 ```sh
-## create your project name
-cargo init my-project
-cd my-project
-
 ## create a vendors directory containing dependencies
 mkdir vendors
 cd vendors
