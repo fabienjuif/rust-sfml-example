@@ -7,7 +7,7 @@ use sfml::system::*;
 fn main() {
     let mut window = RenderWindow::new(
         (800, 600),
-        "SFML VertexArray accessors Example",
+        "SFML Starter",
         Style::CLOSE,
         &Default::default(),
     );
